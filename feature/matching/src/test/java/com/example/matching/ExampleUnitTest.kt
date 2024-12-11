@@ -1,4 +1,4 @@
-package com.yapp.chaeum
+package com.example.matching
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
